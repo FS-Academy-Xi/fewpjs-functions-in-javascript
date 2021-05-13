@@ -46,7 +46,7 @@ of abstractions.
   </tr>
   <tr>
     <td>visit site, make userid, make password...</td>
-    <td>Sign up for Flatbook</td>
+    <td>Sign up for Axibook</td>
   </tr>
   <tr>
     <td>get in the lift, hit "G" button, exit elevator, walk to subway...</td>
